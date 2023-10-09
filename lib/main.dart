@@ -7,8 +7,6 @@
 //  AppMaster
 //  MARK: appmaster3101
 //
-//
-
 import 'dart:math';
 import 'package:flutter/material.dart';
 
